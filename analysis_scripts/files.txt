@@ -1,0 +1,14 @@
+Analysis files:
+1. IMD_CUT_OFF
+2. MCA_STATS
+3. CLUSTERING
+4. SUPERVISED_ML
+5. VENN_DIAGRAM_BIPLOT
+
+TO RUN GUI:
+
+Upload files:
+
+high_model= rf_final_high_model.joblib
+low_model= rf_final_low_model.joblib
+
