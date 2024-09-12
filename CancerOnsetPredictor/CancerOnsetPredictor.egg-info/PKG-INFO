@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: CancerOnsetPredictor
+Version: 0.1
+Summary: A package for predicting the age of onset of leukaemia from the age of onset of diseases belonging to a specific chapter in the first occurence  category in the UKBiobank data
+Author: Aakanksha Choudhary
+Author-email: aakankshachoudhary66660@gmail.com
+Requires-Dist: joblib
+Requires-Dist: pandas

@@ -1,0 +1,10 @@
+MANIFEST.in
+setup.py
+CancerOnsetPredictor.egg-info/PKG-INFO
+CancerOnsetPredictor.egg-info/SOURCES.txt
+CancerOnsetPredictor.egg-info/dependency_links.txt
+CancerOnsetPredictor.egg-info/requires.txt
+CancerOnsetPredictor.egg-info/top_level.txt
+my_package/__init__.py
+my_package/my_mod.py
+my_package/rf_final_model.joblib
